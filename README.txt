@@ -1,4 +1,4 @@
-## About
+# About
 
 Shopping site prototype ran using Apache, databse using MySQL.
 
