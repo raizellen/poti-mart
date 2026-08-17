@@ -1,0 +1,6 @@
+shopping cart: https://www.freeiconspng.com/images/cart-icon
+
+testing
+UPDATE products
+SET in_stock = 1500
+WHERE product_id = 1000;
